@@ -2,8 +2,6 @@ import 'package:currencies_project/models/dto_models/currency_dto.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 
-const _kDaysCount = 2;
-
 @immutable
 class Currency extends Equatable {
   final int currencyId;
