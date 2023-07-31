@@ -1,4 +1,4 @@
-# currencies_project
+# Currencies Project
 Flutter Project was created as a test task, used Cubit State Management + Repositories + Services for api calls.
 The application shows the exchange rate of currencies in relation to the Belarusian ruble to other currencies
 
